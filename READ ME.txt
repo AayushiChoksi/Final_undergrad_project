@@ -1,0 +1,8 @@
+database - "style_sanctuary"
+
+table - "customers"
+
+Login cred
+
+itssagarpatel18@gmail.com
+rita@123
